@@ -12,10 +12,10 @@ The platform also includes a repository of learning resources, including video l
 In addition to connecting students with tutors, LearnHub also offers a range of features for tutors to manage their online tutoring businesses. This includes tools for scheduling sessions, managing payments, and tracking student progress.
 
 # Technical Details:
-* <br> The platform will be built using a modern web framework such as React or Angular.
-* <br> Video conferencing tools such as Twilio or Zoom will be integrated to provide virtual tutoring sessions.
-* <br> The platform will be designed to handle secure payment transactions using popular payment gateways such as Stripe or PayPal.
-* <br> A database management system such as MySQL or MongoDB will be used to store user information, session data, and progress reports.
-
+* The platform will be built using a modern web framework such as React or Angular. <br>
+* Video conferencing tools such as Twilio or Zoom will be integrated to provide virtual tutoring sessions. <br>
+* The platform will be designed to handle secure payment transactions using popular payment gateways such as Stripe or PayPal. <br>
+* A database management system such as MySQL or MongoDB will be used to store user information, session data, and progress reports. <br>
+ 
 # Potential Impact:
 LearnHub has the potential to revolutionize the online tutoring industry by providing a simple, easy-to-use platform that connects students with expert tutors from around the world. By offering personalized instruction and a range of learning resources, LearnHub can help students achieve their academic goals and improve their understanding of key concepts. Moreover, by providing a platform for tutors to manage their businesses and track student progress, LearnHub can help tutors build successful online tutoring businesses and achieve financial stability.
